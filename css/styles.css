@@ -9,7 +9,6 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 #89c4f4 - jordy blue
 */
 
-
 /* Global styles
 ------------------------------------*/
 html {
@@ -71,14 +70,12 @@ h3 {
   border-bottom: none;
 }
 
-
 /* Profile
 ------------------------------------*/
 header {
   background: #2F3061;
   color: #F7FFF7;
 }
-
 
 /* course
 ------------------------------------*/
@@ -132,14 +129,11 @@ header {
   margin-top: 0;
 }
 
-
 /* skills
 ------------------------------------*/
 .skills {
   background: #A1C6D7;
 }
-
-
 
 /* Education
 ------------------------------------*/
@@ -152,7 +146,6 @@ header {
 .education p {
   width: 60%;
 }
-
 
 /* Contact Info
 ------------------------------------*/
@@ -168,7 +161,6 @@ footer {
   padding: 15px;
   display: inline-block;
 }
-
 
 /* Responsive
 ------------------------------------*/
