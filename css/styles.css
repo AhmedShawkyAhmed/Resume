@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  color: #343434;
+  color: #1e2147;
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
@@ -74,20 +74,20 @@ h3 {
 ------------------------------------*/
 header {
   background: #2F3061;
-  color: #F7FFF7;
+  color: #ffffff;
 }
 
 /* course
 ------------------------------------*/
 .course {
-  background: #F7FFF7;
+  background: #b95f15;
 }
 .course a {
-  color: #2F3061;
+  color: #1e1e47;
 }
 .course .btn {
-  color: #F7FFF7;
-  background: #2F3061;
+  color: #1fbdbd;
+  background: #be9818;
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
@@ -106,7 +106,7 @@ header {
 /* personal
 ------------------------------------*/
 .personal {
-  background: #89c4f4;
+  background: #3a98e6;
 }
 .personal a {
   color: #2F3061;
@@ -132,7 +132,8 @@ header {
 /* skills
 ------------------------------------*/
 .skills {
-  background: #A1C6D7;
+  background: #a3390f;
+  color: #ffffff;
 }
 
 /* Education
@@ -150,7 +151,7 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #2c2c2c;
   color: #F7FFF7;
 }
 .contact-list {
