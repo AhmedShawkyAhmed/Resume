@@ -8,7 +8,7 @@
 }
 body
 {
-  background: rgb(73, 173, 255);
+  background: rgba(0, 86, 156, 1);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ body
   width: 100%;
   max-width: 1200px;
   min-height: 1200px;
-  background: #fff;
+  background: rgb(34, 34, 34);
   margin: 50px;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -29,7 +29,7 @@ body
 .container .left_Side
 {
   position: relative;
-  background: #005279;
+  background: rgba(0, 66, 97, 1);
   padding: 40px;
 }
 .profileText
@@ -39,7 +39,7 @@ body
   flex-direction: column;
   align-items: center;
   padding-bottom: 20px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
 }
 .profileText .logoBox
 {
@@ -119,6 +119,10 @@ body
   color: #fff;
   font-weight: 300;
 }
+.education ul
+{
+  color: #fff;
+}
 .language .percent
 {
   position: relative;
@@ -140,10 +144,14 @@ body
   height: 100%;
   background: rgb(73, 173, 255);
 }
+.language ul
+{
+  color: #fff;
+}
 .container .right_Side
 {
   position: relative;
-  background: #fff;
+  background: rgba(24, 26, 27, 1);
   padding: 40px;
 }
 .about
@@ -152,39 +160,41 @@ body
 }
 .title2
 {
-  color: #003147;
+  color: #005d88;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 10px;
 }
 .about p
 {
-  color: #333;
+  color: #fff;
 }
 .about span
 {
-  color: #333;
+  color: #fff;
 }
 .about ul
 {
   padding-left: 20px;
+  color: #fff;
 }
 .info
 {
   padding-bottom: 60px;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 2px solid rgb(170, 170, 170);
 }
 .info p
 {
-  color: #333;
+  color: #fff;
 }
 .info span
 {
-  color: #333;
+  color: #fff;
 }
 .info ul
 {
   padding-left: 20px;
+  color: #fff;
 }
 .last
 {
@@ -193,6 +203,6 @@ body
   flex-direction: column;
   align-items: center;
   padding-top: 20px;
-  color: #081921;
+  color: #c9c9c9;
   font-size: 20;
 }
