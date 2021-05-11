@@ -148,11 +148,7 @@ body
 }
 .about
 {
-  margin-bottom: 50px;
-}
-.about:last-child
-{
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
 .title2
 {
@@ -161,7 +157,42 @@ body
   letter-spacing: 1px;
   margin-bottom: 10px;
 }
-p
+.about p
 {
   color: #333;
+}
+.about span
+{
+  color: #333;
+}
+.about ul
+{
+  padding-left: 20px;
+}
+.info
+{
+  padding-bottom: 60px;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+}
+.info p
+{
+  color: #333;
+}
+.info span
+{
+  color: #333;
+}
+.info ul
+{
+  padding-left: 20px;
+}
+.last
+{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  color: #081921;
+  font-size: 20;
 }
